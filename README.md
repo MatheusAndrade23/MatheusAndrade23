@@ -1,7 +1,7 @@
 ### Olá 👋 
 #### Meu nome é Matheus, tenho 18 anos e estou estudando programação!
 
-##### Linguagens: `.HTML`, `.CSS` , `.JavaScript`, `.C` e `.C++`!
+##### Linguagens: `.HTML`, `.CSS`, `.JavaScript`, `.C` e `.C++`!
 
 <br>
 
