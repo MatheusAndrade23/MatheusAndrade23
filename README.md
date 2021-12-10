@@ -2,9 +2,7 @@
 #### Meu nome é Matheus, tenho 18 anos e estou estudando programação!
 #### Mas, além de programar, também adoro projetar circuitos eletrônicos!
 
-<br>
-
-##### Linguagens: `.HTML`, `.CSS`, `.JavaScript`, `.C` e `.C++`!
+#### Linguagens: `.HTML`, `.CSS`, `.JavaScript`, `.C` e `.C++`!
 
 <br>
 
