@@ -2,7 +2,8 @@
 #### Meu nome é Matheus, tenho 18 anos e estou estudando programação!
 #### Mas, além de programar, também adoro projetar circuitos eletrônicos!
 
-#### Linguagens: `.HTML`, `.CSS`, `.JavaScript`, `.C` e `.C++`!
+#### Linguagens: `HTML`, `CSS`, `JavaScript`, `C` e `C++`!
+#### Banco de Dados: `MySQL`, `MongoDB` e `Firebase`!
 
 <br>
 
@@ -18,6 +19,9 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
   
   ##
