@@ -3,7 +3,7 @@
 ### Mas, além de programar, também adoro projetar circuitos eletrônicos!
 
 #### Linguagens: `HTML`, `CSS`, `JavaScript`, `C` e `C++`!
-#### Banco de Dados: `MySQL`, `MongoDB` e `Firebase`!
+#### Bancos de Dados: `MySQL`, `MongoDB` e `Firebase`!
 
 <br>
 
