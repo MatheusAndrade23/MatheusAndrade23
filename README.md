@@ -1,4 +1,4 @@
-### Olá 👋, meu nome é Matheus!
+### Olá, meu nome é Matheus! 👋
 #### ⚓ Tenho 18 anos!
 #### ✈️ Sou um amante da programação e da eletrônica!
 
