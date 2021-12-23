@@ -7,7 +7,7 @@
 #### Linguagens: `HTML`, `CSS`, `JavaScript`, `C` e `C++`!
 #### Bancos de Dados: `MySQL`, `MongoDB` e `Firebase`!
 #### Frameworks: `Express`!
-#### Além disso, também sei utilizar o `NodeJS`!
+#### Backend: `NodeJS`!
 
 <br>
 
