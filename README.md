@@ -7,7 +7,6 @@
 #### Linguagens: `HTML`, `CSS`, `JavaScript`, `C` e `C++`!
 #### Bancos de Dados: `MySQL`, `MongoDB` e `Firebase`!
 #### Frameworks: `Express`!
-
 #### Além disso, também sei utilizar o `NodeJS`!
 
 <br>
@@ -27,6 +26,7 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
   
   ##
