@@ -2,14 +2,22 @@
 #### ⚓ Tenho 18 anos!
 #### ✈️ Sou um amante da programação e da eletrônica!
 
-##
+---
 
-### Meus Conhecimentos: 📓
+### Meus Conhecimentos: 💡
 
 #### Linguagens: `HTML`, `CSS`, `JavaScript`, `C` e `C++`!
 #### Bancos de Dados: `MySQL`, `MongoDB` e `Firebase`!
 #### Stack JavaScript: `NodeJS`, `ReactJS`, `NextJS` e `ExpressJS`!
 
+##
+
+### Estudando: 📓
+
+#### Curso que estou fazendo: <a href="https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/">ReactJS + NextJS</a> na <a href="https://www.udemy.com/">Udemy</a>!
+
+#### Stack Javascipt: `NodeJS`, `ReactJS` e `NextJS`!
+#### Ferramentas: `Npm`, `Git/GitHub`, `VSCode`!
 
 <br>
 
