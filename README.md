@@ -1,6 +1,6 @@
 ### Olá, meu nome é Matheus! 👋
 #### ⚓ Tenho 18 anos!
-#### ✈️ Sou um amante da programação e da eletrônica!
+#### ✈️ Sou um amante da Programação e da Eletrônica!
 
 ##
 
@@ -10,24 +10,7 @@
 #### Bancos de Dados: `MySQL`, `MongoDB` e `Firebase`!
 #### Stack JavaScript: `NodeJS`, `ReactJS`, `NextJS` e `ExpressJS`!
 
-##
-
-### Estudando: 📓
-
-#### Curso que estou fazendo: <a href="https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/">ReactJS + NextJS</a> na <a href="https://www.udemy.com/">Udemy</a>!
-
-#### Stack Javascipt: `NodeJS`, `ReactJS` e `NextJS`!
-#### Ferramentas: `Npm`, `Git/GitHub`, `VSCode`!
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/MatheusAndrade23/">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MatheusAndrade23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAndrade23&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div align="center"><br>
+<div><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,6 +23,38 @@
   <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
+
+##
+
+### Estudando: 📓
+
+#### Curso que estou fazendo: <a href="https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/">ReactJS + NextJS</a> na <a href="https://www.udemy.com/">Udemy</a>!
+
+#### Stack Javascipt: `TypeScript`, `NodeJS`, `ReactJS` e `NextJS`!
+#### Ferramentas: `Npm`, `Git/GitHub`, `VSCode`!
+
+<div><br>
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img align="center" alt="Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+</div>
+
+##
+
+###  GitHub Stats: 📈
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/MatheusAndrade23/">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MatheusAndrade23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAndrade23&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
   ##
   
@@ -47,3 +62,11 @@
 <a href = "mailto:matheusandrade.ma2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!-- <a href="#"><img src="https://badges.pufler.dev/visits/MatheusAndrade23/MatheusAndrade23"></a> -->
   
+<!--  <details>
+  <summary>GitHub Stats: 📈</summary>
+  <pre><div align="center">
+  <a href="https://github.com/MatheusAndrade23/">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MatheusAndrade23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAndrade23&layout=compact&langs_count=7&theme=dark"/>
+</div></pre>
+</details> -->
