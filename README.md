@@ -4,7 +4,7 @@
 
 ##
 
-### Meus Conhecimentos 📓:
+### Meus Conhecimentos: 📓
 
 #### Linguagens: `HTML`, `CSS`, `JavaScript`, `C` e `C++`!
 #### Bancos de Dados: `MySQL`, `MongoDB` e `Firebase`!
