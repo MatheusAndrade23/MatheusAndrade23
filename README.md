@@ -2,7 +2,7 @@
 #### ⚓ Tenho 18 anos!
 #### ✈️ Sou um amante da programação e da eletrônica!
 
----
+##
 
 ### Meus Conhecimentos: 💡
 
