@@ -31,7 +31,7 @@
 #### Curso que estou fazendo: <a href="https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/">ReactJS + NextJS</a> na <a href="https://www.udemy.com/">Udemy</a>!
 
 #### Stack Javascipt: `TypeScript`, `NodeJS`, `ReactJS` e `NextJS`!
-#### Ferramentas: `Npm`, `Git/GitHub`, `VSCode`!
+#### Ferramentas: `Npm`, `Git/GitHub` e `VSCode`!
 
 <div><br>
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
