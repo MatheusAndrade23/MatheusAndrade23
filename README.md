@@ -4,10 +4,12 @@
 
 ##
 
+### Meus Conhecimentos 📓:
+
 #### Linguagens: `HTML`, `CSS`, `JavaScript`, `C` e `C++`!
 #### Bancos de Dados: `MySQL`, `MongoDB` e `Firebase`!
-#### Frameworks/Bibliotecas: `ReactJS` e `ExpressJS`!
-#### Backend: `NodeJS`!
+#### Stack JavaScript: `NodeJS`, `ReactJS`, `NextJS` e `ExpressJS`!
+
 
 <br>
 
