@@ -3,7 +3,7 @@
 #### ⚓ Tenho 18 anos!
 #### ✈️ Sou um amante da Programação e da Eletrônica!
 #### 💡 Tenho Experiência com: `HTML`, `CSS`, `JavaScript` e `NodeJS`!
-#### 📕 Atualmente Estudando: `ReactJS`, `NextJS` e `TypeScript`!
+#### 📕 Atualmente Estudando: `ReactJS/React Native`, `NextJS` e `TypeScript`!
  
 ##
 
