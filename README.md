@@ -2,8 +2,8 @@
 
 #### ⚓ Tenho 18 anos, formado Técnico em Eletrônica!
 #### ✈️ Sou um amante da Tecnologia e da Música!
-#### 💡 Tenho Experiência com: `HTML`, `CSS`, `JavaScript`, `NodeJS` e `ReactJS`!
-#### 📕 Atualmente Estudando: `ReactJS/React Native`, `NextJS` e `TypeScript`!
+#### 💡 Tenho Experiência com: `HTML`, `CSS`, `JavaScript`, `NodeJS` e `ReactJS!`
+#### 📕 Atualmente Estudando: `ReactJS/React Native`, `NextJS` e `TypeScript!`
  
 ##
 
