@@ -1,17 +1,13 @@
-<h1 align="center">Olá, meu nome é Matheus! 👋</h1> 
+<h1>Olá, meu nome é Matheus! 👋</h1> 
 
-<div align="center">
- 
-  <h4>⚓ Tenho 18 anos, formado Técnico em Eletrônica e estagiário na Huawei!</h4>
-  <h4>✈️ Sou um amante da Tecnologia e da Música!</h4>
+<h4>⚓ Tenho 18 anos, formado Técnico em Eletrônica e estagiário na Huawei!</h4>
+<h4>✈️ Sou um amante da Tecnologia e da Música!</h4>
 
-</div>
- 
 <br>
 
-<h1 align="center">📕 Tecnologias:</h1> 
+<h2>📕 Tecnologias:</h2> 
 
-<div align="center"><br>
+<div><br>
   <a href="https://github.com/MatheusAndrade23">
     <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -26,6 +22,10 @@
     <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"/>
   </a>
 </div>
+
+<br>
+
+<h2>📈 Stats:</h2>
 
 <br>
 
