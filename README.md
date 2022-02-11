@@ -3,10 +3,6 @@
 <h4>⚓ Tenho 18 anos, formado Técnico em Eletrônica e estagiário na Huawei!</h4>
 <h4>✈️ Sou um amante da Tecnologia e da Música!</h4>
 
-<br>
-
-<h2>📕 Tecnologias:</h2> 
-
 <div><br>
   <a href="https://github.com/MatheusAndrade23">
     <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
