@@ -1,6 +1,6 @@
 <h2>Olá, meu nome é Matheus! 👋</h2> 
 
-<h4>⚓ Tenho 18 anos, formado Técnico em Eletrônica e estagiário na Huawei!</h4>
+<h4>⚓ Tenho 18 anos, formado Técnico em Eletrônica e Estagiário na Huawei!</h4>
 <h4>✈️ Sou um amante da Tecnologia e da Música!</h4>
 
 <div><br>
