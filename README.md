@@ -1,6 +1,6 @@
 <h2>Olá, meu nome é Matheus! 👋</h2> 
 
-<h4>⚓ Tenho 18 anos e sou Técnico de Sistemas I na Huawei</h4>
+<h4>⚓ Tenho 18 anos e sou Técnico em Sistemas I na Huawei!</h4>
 <h4>✈️ Sou um amante da Tecnologia e da Música!</h4>
 
 ##
