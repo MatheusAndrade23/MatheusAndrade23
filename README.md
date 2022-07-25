@@ -3,7 +3,7 @@
 <h4>⚓ Tenho 18 anos e sou Técnico em Sistemas I na Huawei!</h4>
 <h4>✈️ Sou um amante da Tecnologia e da Música!</h4>
 
-##
+---
 
 <div align="center">
   <a href="https://github.com/MatheusAndrade23">
@@ -34,7 +34,7 @@
   
  </div> -->
  
-  ##
+  ---
   
 <a href="https://www.linkedin.com/in/matheus-andrade23/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:matheusandrade.ma2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
