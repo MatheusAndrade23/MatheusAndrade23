@@ -9,8 +9,8 @@
 
 <div align="center" title="GitHub Stats">
   <a href="https://github.com/MatheusAndrade23">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MatheusAndrade23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAndrade23&layout=compact&langs_count=7&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats-matheusandrade23.vercel.app/api?username=MatheusAndrade23&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="165em" src="https://github-readme-stats-matheusandrade23.vercel.app/api/top-langs/?username=MatheusAndrade23&layout=compact&langs_count=7&theme=transparent"/>
 </div>
   
 <!--   <div style="display: inline_block" align="center" title="Tecnologias"><br>
@@ -47,8 +47,6 @@
   <a href = "mailto:matheusandrade.ma2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MatheusAndrade23&theme=react-dark"/>
-</div> -->
 
 <!-- <img align="right" alt="image-icon" height="150" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" /> -->
+
