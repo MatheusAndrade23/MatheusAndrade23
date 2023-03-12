@@ -1,19 +1,29 @@
-<h3 tittle="Olá!">Olá, meu nome é Matheus!</h3>
+![](https://komarev.com/ghpvc/?username=matheusandrade23&style=flat)
 
-##
+<h2 tittle="Olá!">Olá 👋, meu nome é Matheus!</h2>
 
-<h4>⚓ Tenho 19 anos e sou Técnico em Sistemas I na Huawei!</h4>
-<h4>✈️ Sou um amante da Tecnologia e da Música!</h4>
+ - ⚓ Sou desenvolvedor Full Stack, um amante da música, do café e do JavaScript.
 
-##
+ - 📓 Atualmente cursando Engenharia de Software pelo <a href="https://inatel.br/home/">Inatel</a>.
 
-<div align="center" title="GitHub Stats">
+ - 💻 Estou aperfeiçoando minhas habilidades através da jornada <a href="https://www.rocketseat.com.br/ignite">Ignite</a>, da Rocketseat.
+
+<br/>
+
+<div title="Contatos">
+  <a href="https://www.linkedin.com/in/matheus-andrade23/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25"></a>
+  <a href = "mailto:matheusandrade.ma2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25"></a>
+</div>
+
+<br/>
+
+<div title="GitHub Stats">
   <a href="https://github.com/MatheusAndrade23">
-  <img height="165em" src="https://github-readme-stats-matheusandrade23.vercel.app/api?username=MatheusAndrade23&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="165em" src="https://github-readme-stats-matheusandrade23.vercel.app/api/top-langs/?username=MatheusAndrade23&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="170em" src="https://github-readme-stats-matheusandrade23.vercel.app/api?username=MatheusAndrade23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="170em" src="https://github-readme-stats-matheusandrade23.vercel.app/api/top-langs/?username=MatheusAndrade23&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<!--   <div style="display: inline_block" align="center" title="Tecnologias"><br>
+<!--   <div style="display: inline_block" title="Tecnologias"><br>
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,7 +35,7 @@
     <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div> -->
 
-<div style="display: inline_block" align="center" title="Tecnologias"><br>
+<div style="display: inline_block" title="Tecnologias"><br>
     <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"/>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
@@ -36,16 +46,12 @@
     <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="center" alt="Django" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <img align="center" alt="Django" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> 
 <!--     <img align="center" alt="Pandas" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> -->
 </div>
 
-##
 
-<div title="Contatos">
-  <a href="https://www.linkedin.com/in/matheus-andrade23/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheusandrade.ma2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
 
 
 <!-- <img align="right" alt="image-icon" height="150" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" /> -->
