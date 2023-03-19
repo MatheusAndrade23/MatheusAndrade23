@@ -2,7 +2,7 @@
 
 <h2 tittle="Olá!">Olá 👋, meu nome é Matheus!</h2>
 
- - ⚓ Sou desenvolvedor Full Stack, um amante da música, do café e do JavaScript.
+ - ⚓ Sou desenvolvedor Full Stack, um amante da música e do JavaScript.
 
  - 📓 Atualmente cursando Engenharia de Software pelo <a href="https://inatel.br/home/">Inatel</a>.
 
