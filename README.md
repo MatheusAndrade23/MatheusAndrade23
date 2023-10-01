@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=matheusandrade23&style=flat)
 
-<h2 tittle="Olá!">Olá 👋, meu nome é Matheus!</h2>
+<h2>Olá 👋, meu nome é Matheus!</h2>
 
  - ⚓ Sou desenvolvedor Full Stack, um amante da música e do JavaScript.
 
