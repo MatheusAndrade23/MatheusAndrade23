@@ -2,8 +2,6 @@
 
 <h2>Olá 👋, meu nome é Matheus!</h2>
 
- - ⚓ Sou desenvolvedor Full Stack, um amante da música e do JavaScript.
-
  - 📓 Atualmente cursando Engenharia de Software pelo <a href="https://inatel.br/home/">Inatel</a>.
 
  - 💻 Estou aperfeiçoando minhas habilidades através da jornada <a href="https://www.rocketseat.com.br/ignite">Ignite</a>, da Rocketseat.
