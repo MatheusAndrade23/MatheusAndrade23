@@ -4,7 +4,9 @@
 
  - 📓 Atualmente cursando Engenharia de Software pelo <a href="https://inatel.br/home/">Inatel</a>.
 
- - 💻 Estou aperfeiçoando minhas habilidades através da jornada <a href="https://www.rocketseat.com.br/ignite">Ignite</a>, da Rocketseat.
+ - 💻 Aperfeiçoando minhas habilidades através da jornada <a href="https://www.rocketseat.com.br/ignite">Ignite</a>, da Rocketseat.
+
+ - Atuando como Desenvolvedor Full Stack na <a href="https://nextdevices.com.br/">Next Devices</a>.
 
 <br/>
 
