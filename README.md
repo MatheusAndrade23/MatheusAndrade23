@@ -20,8 +20,8 @@
 
 <div title="GitHub Stats">
   <a href="https://github.com/MatheusAndrade23">
-  <img height="160em" loading="lazy" src="https://github-readme-stats-matheusandrade23.vercel.app/api?username=MatheusAndrade23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="160em" loading="lazy" src="https://github-readme-stats-matheusandrade23.vercel.app/api/top-langs/?username=MatheusAndrade23&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" loading="lazy" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusAndrade23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="160em" loading="lazy" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusAndrade23&layout=compact&langs_count=7&theme=dark&count_private=true"/>
 </div>
   
 <!--   <div style="display: inline_block" title="Tecnologias"><br>
