@@ -8,14 +8,12 @@
 
  - 💻 Aperfeiçoando minhas habilidades através da jornada <a href="https://www.rocketseat.com.br/ignite">Ignite</a>, da Rocketseat.
 
-   
-<br/>
-
+<!--  
 <div title="Contatos">
   <a href="https://www.linkedin.com/in/matheus-andrade23/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25"></a>
   <a href = "mailto:matheusandrade.ma2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25"></a>
 </div>
-
+ -->
 <br/>
 
 <div title="GitHub Stats">
