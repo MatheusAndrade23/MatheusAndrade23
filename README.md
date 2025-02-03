@@ -18,10 +18,17 @@
 
 <div title="GitHub Stats">
   <a href="https://github.com/MatheusAndrade23">
-  <img height="160em" loading="lazy" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusAndrade23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="160em" loading="lazy" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusAndrade23&layout=compact&langs_count=7&theme=dark&count_private=true"/>
+  <img height="170em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=matheusandrade23&show_icons=true&theme=dark&count_private=true"/>
+  <img height="170em" loading="lazy" src="https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=matheusandrade23&layout=compact&langs_count=8&theme=dark"/>
 </div>
-  
+
+<!--   
+
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusandrade23&show_icons=true&theme=dark&count_private=true)
+
+![Matheus GitHub top langs](https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=matheusandrade23&layout=compact&langs_count=8&theme=dark)
+ -->
+ 
 <!--   <div style="display: inline_block" title="Tecnologias"><br>
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
