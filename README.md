@@ -31,7 +31,7 @@
 
  <br>
 
-[![Skills](https://skillicons.dev/icons?i=figma,html,css,sass,js,ts,nodejs,nestjs,react,next,go,docker,postgres,mysql,aws,terraform&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=figma,html,css,js,ts,nodejs,nestjs,react,next,go,docker,postgres,mysql,aws,terraform&theme=dark)](https://skillicons.dev)
 
 <!--
 
