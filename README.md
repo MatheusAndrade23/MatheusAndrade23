@@ -22,13 +22,6 @@
   <img height="170em" loading="lazy" src="https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=matheusandrade23&layout=compact&langs_count=8&theme=dark&count_private=true"/>
 </div>
 
-<!--   
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusandrade23&show_icons=true&theme=dark&count_private=true)
-
-![Matheus GitHub top langs](https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=matheusandrade23&layout=compact&langs_count=8&theme=dark)
- -->
-
 <!--
 
  <br>
