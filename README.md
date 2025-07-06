@@ -45,7 +45,6 @@
     <img align="center" alt="Docker" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
     <img align="center" alt="MySQL" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img align="center" alt="Postgres" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
-    <img align="center" alt="RabbitMQ" height="34" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
     <img align="center" alt="AWS" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
     <img align="center" alt="Terraform" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
 </div> 
