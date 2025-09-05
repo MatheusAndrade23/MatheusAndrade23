@@ -6,7 +6,7 @@
 
  - 📓 Cursando Engenharia de Software pelo <a href="https://inatel.br/home/">Inatel</a>.
 
- - 💻 Aperfeiçoando minhas habilidades através do <a href="https://www.rocketseat.com.br/ignite">Rocketseat One</a> e do curso <a href="https://curso.fullcycle.com.br/curso-fullcycle-4-0">Full Cycle 4.0</a>.
+ - 💻 Aperfeiçoando minhas habilidades através do <a href="https://www.rocketseat.com.br/ignite">Rocketseat One</a> e do curso <a href="https://curso.fullcycle.com.br/full-cycle-4-0-ia">Full Cycle 4.0</a>.
 
 <!--  
 <div title="Contatos">
