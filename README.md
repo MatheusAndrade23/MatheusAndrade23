@@ -16,11 +16,11 @@
  -->
 <br/>
 
-<div title="GitHub Stats">
+<!-- <div title="GitHub Stats">
   <a href="https://github.com/MatheusAndrade23">
   <img height="170em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=matheusandrade23&show_icons=true&theme=dark&count_private=true"/>
   <img height="170em" loading="lazy" src="https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=matheusandrade23&layout=compact&langs_count=8&theme=dark&count_private=true"/>
-</div>
+</div> -->
 
 <!--
 
@@ -29,8 +29,6 @@
 [![Skills](https://skillicons.dev/icons?i=figma,html,css,js,ts,nodejs,nestjs,react,next,go,docker,postgres,mysql,aws,terraform&theme=dark)](https://skillicons.dev)
 
  -->
-
- <br/>
 
 <p>
   <img alt="Figma" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
