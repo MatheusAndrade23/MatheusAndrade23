@@ -14,7 +14,6 @@
   <a href = "mailto:matheusandrade.ma2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25"></a>
 </div>
  -->
-<br/>
 
 <!-- <div title="GitHub Stats">
   <a href="https://github.com/MatheusAndrade23">
@@ -29,6 +28,8 @@
 [![Skills](https://skillicons.dev/icons?i=figma,html,css,js,ts,nodejs,nestjs,react,next,go,docker,postgres,mysql,aws,terraform&theme=dark)](https://skillicons.dev)
 
  -->
+ 
+##
 
 <p>
   <img alt="Figma" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
