@@ -48,6 +48,7 @@
   <img alt="PostgreSQL" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
   <img alt="AWS" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
   <img alt="Terraform" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
+  <img alt="Terraform" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/>
 </p>
 <!-- ![Snake animation](https://github.com/matheusandrade23/matheusandrade23/blob/output/github-contribution-grid-snake.svg) -->
 <!-- <img align="right" alt="image-icon" height="150" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" /> -->
