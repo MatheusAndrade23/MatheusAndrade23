@@ -2,7 +2,7 @@
 
 <h2>Olá 👋, meu nome é Matheus!</h2>
 
- - ⚙️ Atuando como Desenvolvedor Full Stack na <a href="https://nextdevices.com.br/">Next Devices</a>.
+ - ⚙️ Atuando como Desenvolvedor Backend na <a href="https://wavebybemobi.com/">Wave</a>.
 
  - 📓 Cursando Engenharia de Software pelo <a href="https://inatel.br/home/">Inatel</a>.
 
